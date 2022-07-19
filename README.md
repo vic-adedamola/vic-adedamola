@@ -1,5 +1,5 @@
 #This is a README file
 
-read me
+skip this
 an addition
 new changes
