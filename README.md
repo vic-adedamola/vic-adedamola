@@ -7,5 +7,8 @@ ghu
 
 read me
 wahala
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 new changes
