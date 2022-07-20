@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vic-adedamola
-- 👀 I’m interested in Artificial Intelligence and other related fields
+- 👀 I’m interested in Artificial Intelligence and other related fields; Machine Learning in particular
 - 🌱 I’m currently learning how to create an AI
 - 💞️ I’m looking to collaborate on making projects with reinforcement learning
 - 📫 You can reach me @ onifadevictor37@gmail.com or +2349051105094 on Whatsapp.
